@@ -1,12 +1,15 @@
 # Title of Project
 ### Description
 ....
-### Notes
-Make sure to have python 3 installed.
+### How to run
+Prereqs:
+- Python 3
+Move into the Git Repo Directory and run the following:
 ```
 pip install -r requirements.txt
 jupyter lab
 ```
+Then Open the Jupyter Notebook you are interested in.
 ### Project Status
 ### Credits
 - [Anton Dahbura](https://engineering.jhu.edu/faculty/anton-dahbura/)
