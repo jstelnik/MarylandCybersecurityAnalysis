@@ -4,6 +4,8 @@
 ### How to run
 Prereqs:
 - Python 3
+- Jupyter
+
 Move into the Git Repo Directory and run the following:
 ```
 pip install -r requirements.txt
